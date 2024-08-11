@@ -1,6 +1,6 @@
 CC=gcc
 
-EXEC=a.out
+EXEC=ticker
 
 BUILDDIR=build
 
